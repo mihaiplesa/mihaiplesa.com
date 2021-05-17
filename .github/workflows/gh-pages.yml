@@ -4,13 +4,17 @@ on:
   push:
     branches:
       - main
-      - gh-pages
 
 jobs:
-  deploy:
-    runs-on: ubuntu-18.04
+  build-deploy:
+    runs-on: ubuntu-latest
     steps:
-      - uses: chabad360/hugo-gh-pages@v1.2
+      - name: checkout
+        uses: actions/checkout@main
+        with:
+          submodules: true
+      - name: build and deploy
+        uses: chabad360/hugo-gh-pages@v2
         with:
           branch: main
           cname: mihaiplesa.com
