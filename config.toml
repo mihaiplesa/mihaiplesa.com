@@ -1,0 +1,4 @@
+baseURL = "https://mihaiplesa.com/"
+languageCode = "en-us"
+title = "Mihai Plesa"
+theme = "ananke"
