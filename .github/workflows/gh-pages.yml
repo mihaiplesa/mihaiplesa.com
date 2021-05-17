@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: chabad360/hugo-gh-pages@v2
         with:
-          branch: main
+          # branch: main
           cname: mihaiplesa.com
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
