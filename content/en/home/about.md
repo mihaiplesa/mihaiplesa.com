@@ -12,7 +12,7 @@ Born in the capital of Transylvania in a family that's half artists half enginee
 * humans && cats
 * hacking tech together for good (open source preferred)
 * some biohacking and movement
-* music (you name it)
+* music and film (you name it, especially Asian)
 
 #### principles
 * improve continuously (kaizen)

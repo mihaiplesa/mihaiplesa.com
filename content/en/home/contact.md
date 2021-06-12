@@ -2,4 +2,4 @@
 title: "contact"
 ---
 
-Feel free to connect with me on LinkedIn or Twitter or reach out via e-mail.
+Feel free to connect and explore using the icons below.
