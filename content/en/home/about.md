@@ -9,7 +9,7 @@ Born in the capital of Transylvania in a family that's half artists half enginee
 
 #### likes
 * optimizations
-* humans and cats
+* humans && cats
 * hacking tech together for good (open source preferred)
 * some biohacking and movement
 * music (you name it)
