@@ -6,6 +6,10 @@
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
 
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction
+
 [submodule "themes/raditian"]
 	path = themes/raditian
 	url = https://github.com/radity/raditian-free-hugo-theme.git
