@@ -2,6 +2,10 @@
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+
 [submodule "themes/raditian"]
 	path = themes/raditian
 	url = https://github.com/radity/raditian-free-hugo-theme.git
