@@ -1,5 +1,5 @@
 ---
-title: "tech"
+title: "work"
 ---
 
 I am Brave's DevOps manager, working remote full-time. Yes, the browser by the creator of JavaScript and co-founder of Mozilla.
