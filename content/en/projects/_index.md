@@ -2,4 +2,3 @@
 title: "projects"
 ---
 
-Project intro.
