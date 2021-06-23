@@ -2,4 +2,4 @@
 title: "contact"
 ---
 
-Feel free to connect and get social using the icons below.
+Feel free to explore and connect on the platforms below.
