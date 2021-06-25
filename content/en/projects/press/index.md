@@ -2,6 +2,8 @@
 title: "press"
 ---
 
+https://brave.com/building-brave/
+
 https://www.yahoo.com/news/apple-silicon-brave-browser-132047721.html
 
 https://www.devopsonline.co.uk/winners-devops-industry-awards-2017
