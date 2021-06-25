@@ -2,7 +2,7 @@
 title: "press"
 ---
 
-https://brave.com/building-brave/
+https://brave.com/building-brave
 
 https://www.yahoo.com/news/apple-silicon-brave-browser-132047721.html
 
