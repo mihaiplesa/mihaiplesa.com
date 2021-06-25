@@ -115,5 +115,5 @@ DefaultContentLanguage           = "en"                    # Default language fo
         weight           = 0
         title            = "Mihai Plesa"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Mihai Plesa"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
