@@ -10,13 +10,6 @@ Born in the capital of Transylvania in a family that's half artists half enginee
 #### likes
 * optimizations
 * humans && cats
-* creating tech together for good (open source preferred)
-* biology and movement
+* creating tech together for good (privacy preserving and open source)
+* movement
 * music and film (inclined towards the East)
-
-<!-- #### principles -->
-<!-- * improve continuously (kaizen) -->
-<!-- * lead to serve -->
-<!-- * seek and embrace the truth -->
-<!-- * hard challenges bring purpose -->
-<!-- * busy is better than idle -->
