@@ -2,4 +2,4 @@
 title: "contact"
 ---
 
-Feel free to explore and connect on the platforms below.
+Feel free to explore and connect via the platforms below.
