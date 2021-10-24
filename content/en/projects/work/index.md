@@ -2,8 +2,8 @@
 title: "work"
 ---
 
-I am Brave's full-time DevOps manager - the browser by the creator of JavaScript and co-founder of Mozilla.
+I am Brave's full-time DevOps Manager - the browser by the creator of JavaScript and co-founder of Mozilla.
 
 Ex-Audicon, Language Weaver (SDL, RWS), AlertMe (British Gas Connected Homes, Centrica), Mergermarket (Acuris), Barclays, Contino, Policy Expert.
 
-Also member of Toptal and Braintrust, top remote freelancer platforms.
+Also member of Toptal, Braintrust and X-Team - top remote freelancer platforms.
