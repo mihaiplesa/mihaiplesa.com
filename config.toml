@@ -1,6 +1,6 @@
 baseURL = "https://mihaiplesa.com/"
 title = "Mihai Plesa"
-theme = "introduction"
+theme = ["hugo-calendly-shortcode, "introduction"]
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 
 [params]
