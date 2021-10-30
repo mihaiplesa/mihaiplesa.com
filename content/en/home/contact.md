@@ -4,4 +4,6 @@ title: "contact"
 
 Feel free to explore and connect via the platforms below.
 
-{{< calendly calendar="mihaiplesa" />}}
+{{< calendly calendar="mihaiplesa/15min" >}}
+Meet me for 15 minutes
+{{< /calendly >}}
