@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mihaiplesa.com
+Token: c3575e995903a5708c9bf779e95cf422cb76519c7bd658e67bc48a1594e02097
