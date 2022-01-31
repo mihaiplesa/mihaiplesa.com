@@ -1,6 +1,8 @@
 ---
-title: "press"
+title: "media"
 ---
+
+https://www.linkedin.com/pulse/how-i-work-bit-why-mihai-plesa/
 
 https://brave.com/building-brave
 

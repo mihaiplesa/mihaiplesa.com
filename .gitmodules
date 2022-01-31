@@ -3,4 +3,4 @@
 	url = https://github.com/victoriadrake/hugo-theme-introduction
 [submodule "themes/hugo-calendly-shortcode"]
 	path = themes/hugo-calendly-shortcode
-	url = git@github.com:bespokesy/hugo-calendly-shortcode.git
+	url = https://github.com/bespokesy/hugo-calendly-shortcode
