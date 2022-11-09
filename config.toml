@@ -23,7 +23,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 6                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "Europe/Bucharest"      # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeZone                 = "Europe/London"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
@@ -49,22 +49,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [[params.social]]
         url   = "https://twitter.com/mihaiplesa"
         icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://instagram.com/kai4zen"
-        icon  = "instagram" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://mixcloud.com/sinest8"
-        icon  = "mixcloud" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://youtube.com/mihaiplesa/playlists"
-        icon  = "youtube" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://www.imdb.com/user/ur22713195"
-        icon  = "imdb" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
         url = "mailto:contact[at]mihaiplesa[dot]com"  # For a direct email link, use "mailto:test@example.org".
