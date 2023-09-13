@@ -5,7 +5,7 @@ image: "profile.jpg"
 
 I like stuff. You too?
 
-Born in the capital of Transylvania in a family that's half artists half engineers, gained altitude in the United Kingdom then eventually landed in the sunny Cayman Islands (but not for long).
+Took off from the capital of Transylvania in a family of artists and engineers and gained altitude in the United Kingdom (with a pit stop in the sunny Cayman Islands).
 
 #### likes
 * optimizing things
