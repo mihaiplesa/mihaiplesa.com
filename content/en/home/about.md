@@ -9,7 +9,6 @@ Took off from the capital of Transylvania in a family of artists and engineers a
 
 #### likes
 * optimizing things
-* humans && cats
+* humans
 * creating tech together for good (privacy preserving and open source)
-* movement
-* music and film (inclined towards the East)
+* music and sound
