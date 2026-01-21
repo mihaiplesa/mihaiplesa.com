@@ -18,5 +18,6 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@main
         env:
           CNAME: mihaiplesa.com
+          HUGO_EXTENDED: true
           TARGET_REPO: mihaiplesa/mihaiplesa.com
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}
