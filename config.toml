@@ -48,8 +48,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://twitter.com/mihaiplesa"
-        icon  = "twitter" # icon name without the 'fa-'
+        url   = "https://x.com/mihaiplesa"
+        icon  = "x-twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
         url = "mailto:contact[at]mihaiplesa[dot]com"  # For a direct email link, use "mailto:test@example.org".
