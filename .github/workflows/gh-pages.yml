@@ -9,23 +9,32 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@main
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           submodules: true
       
-      - name: install nodejs
+      - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
       
-      - name: install npm tools
+      - name: Install PostCSS tools
         run: npm i -g postcss postcss-cli autoprefixer
       
-      - name: build and deploy
-        uses: benmatselby/hugo-deploy-gh-pages@main
-        env:
-          CNAME: mihaiplesa.com
-          HUGO_EXTENDED: true
-          TARGET_REPO: mihaiplesa/mihaiplesa.com
-          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v4
+        with:
+          hugo-version: latest
+          extended: true
+      
+      - name: Build
+        run: hugo --minify
+      
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./public
+          cname: mihaiplesa.com
