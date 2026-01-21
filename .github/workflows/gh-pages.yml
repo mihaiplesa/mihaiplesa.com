@@ -13,8 +13,10 @@ jobs:
         uses: actions/checkout@main
         with:
           submodules: true
+      
       - name: build and deploy
-        uses: chabad360/hugo-gh-pages@v2
-        with:
-          cname: mihaiplesa.com
-          githubToken: ${{ secrets.PERSONAL_TOKEN }}
+        uses: benmatselby/hugo-deploy-gh-pages@main
+        env:
+          CNAME: mihaiplesa.com
+          TARGET_REPO: mihaiplesa/mihaiplesa.com
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
